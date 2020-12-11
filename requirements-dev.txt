@@ -1,0 +1,9 @@
+-r requirements.txt
+
+ipdb
+
+flake8-bugbear
+pep8-naming
+dlint
+flake8-comprehensions
+flake8-builtins
